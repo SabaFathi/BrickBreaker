@@ -1,0 +1,6 @@
+  key                  work
+---------------------------------------------
+escape        exit game directly(options : with or without saving)
+pause          pause/resume game
+left              move the racket to left
+right            move the racket to right
