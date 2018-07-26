@@ -1,6 +1,0 @@
- option              things will found in this
-------------------------------------------------------------
-New Game         start a new game :)
-Load Game        load your game which you leave it before.
-Help                   now you are exactly here :))
-Exit                     if you want to exit game...
