@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ir.ac.kntu
+Main-Class: ir.ac.kntu.JavaFXExecutable
+
