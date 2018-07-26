@@ -1,0 +1,55 @@
+toop.png
+Ball
+ball
+
+racket.png
+Racket
+racket
+
+null.png
+null
+sign of emoty cells.
+
+zoodsooz.png
+LowBrick
+low(weak) : score=+1, destroyed with one hit!
+
+dirsooz.png
+HighBrick
+high(strong) : score=+2, destroyed with (2 - 4) hits!
+
+ahanroba.png
+MagneticBrick
+magnetic : score=+1, keep the ball for (2 - 5) moves!
+
+shetabdahande.png
+AcceleratorBrick
+accelerator : score=+0.5, increase ball's acceleration to 2!
+
+kondkonande.png
+DeAcceleratorBrick
+deAccelerator : score=+0.5, decrease ball's acceleration to 1!
+
+chocolater.png
+ChocolaterBrick
+chocolater : get a chocolate that if you give it, increase score 3 units!
+
+starer.png
+StarerBrick
+starer : change the state to magic state which you can lose the ball and not decrease the life!
+
+hearter.png
+HearterBrick
+hearter : get a heart that if you give it, increase life 1 unit!
+
+chocolate.png
+Chocolate
+chocolate : score=+3, the chocolate :D
+
+star.png
+Star
+star : magic state :D
+
+heart.png
+Heart
+heart : life=+1
